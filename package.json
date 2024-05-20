@@ -1,0 +1,10 @@
+{
+  "name": "instant-messaging-user-service",
+  "version": "1.0.0",
+  "description": "The user service of an instant messaging app",
+  "main": "server.js",
+  "repository": "https://github.com/ofirs22/instant-messaging-user-service.git",
+  "author": "Ofir Sahar",
+  "license": "MIT",
+  "private": false
+}
